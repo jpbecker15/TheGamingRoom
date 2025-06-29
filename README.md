@@ -1,1 +1,13 @@
 # TheGamingRoom
+CS 230 Module Eight Journal – Reflection
+The Gaming Room was a fictional client seeking assistance in designing a scalable and secure software system for managing and hosting multiple versions of a trivia game called “Draw It or Lose It.” Their main goal was to ensure that the software could support multiple teams playing simultaneously, while maintaining data integrity and minimizing duplicated game logic across instances. The application needed to be platform-independent and scalable to accommodate future growth.
+
+One area I believe I did particularly well was documenting the architecture and system design in a clear and structured way. I carefully explained how the system components would interact, and I incorporated class diagrams and descriptions that helped demonstrate the logic behind my design decisions. This made it easier to communicate technical concepts to both technical and non-technical stakeholders.
+
+Working through the software design document gave me a structured way to think about the system’s functionality before diving into development. It helped me identify dependencies, reuse opportunities, and security concerns early on. I found that visual modeling — like creating UML diagrams — was particularly helpful in visualizing how objects and users would interact with the system.
+
+If I could revise one aspect of the documentation, I would further expand the user interface section with wireframes or mockups. While I provided a general overview of user flow, visual aids would have made it even easier for stakeholders to understand the front-end experience. I would also consider adding more detail around database interactions to improve clarity on data storage and access control.
+
+To accurately meet the client’s needs, I focused on their requirement for modularity and scalability. I ensured that the design supported game session isolation for each team, reducing the risk of cross-team interference. It was important to put the user first by designing a system that was intuitive, reliable, and could grow with demand. Considering the user’s needs during design ensures the final product delivers real value and a seamless experience.
+
+My approach to software design involved breaking the problem down into manageable components, applying object-oriented principles, and using UML diagrams to visualize relationships and flow. Going forward, I will continue to rely on early-stage design documentation and stakeholder feedback. These strategies not only lead to a better final product, but also help align technical development with business goals.
